@@ -1,6 +1,1 @@
-cd 你的/openclaw/資料夾
-git init
-git add .
-git commit -m "first commit"
-git remote add origin https://github.com/tokylin40/openclaw.git
-git push -u origin main
+
